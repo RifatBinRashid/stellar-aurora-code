@@ -4,9 +4,11 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name (set in params.yaml under hugoblox.branding.name)
-title: ''
-# Website URL
-baseURL: 'https://example.com/'
+# Website name
+title: 'Rifat Bin Rashid'
+
+# Website URL - This fixes the "naked" look
+baseURL: 'https://rifatbinrashid.github.io/stellar-aurora-code/'
 
 ############################
 ## LANGUAGE
